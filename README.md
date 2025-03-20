@@ -23,9 +23,9 @@
   <img src="https://github.com/ivandakhin/ivandakhin/blob/main/img/cat.gif" width="100">
   <img src="https://github.com/ivandakhin/ivandakhin/blob/main/img/cat.gif" width="100">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/ivandakhin/ivandakhin/blob/main/img/wordart%20copy.png" width="60%">
-</p>
+</p> -->
 <div align="center">
   <img src="https://github.com/ivandakhin/ivandakhin/blob/main/img/100.gif" width="100%">
 </div>
